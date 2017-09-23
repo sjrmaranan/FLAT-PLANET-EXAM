@@ -1,0 +1,91 @@
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\ApplicationInsights.config
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\csc.exe
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\vbc.exe
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\VBCSCompiler.exe
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\FLAT_PLANET_EXAM.dll.config
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\FLAT_PLANET_EXAM.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\FLAT_PLANET_EXAM.pdb
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.Web.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.ApplicationInsights.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Helpers.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Mvc.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Razor.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Deployment.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Razor.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.Web.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.ApplicationInsights.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Razor.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Deployment.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Razor.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Helpers.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Mvc.xml
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\obj\Debug\FLAT_PLANET_EXAM.dll
+c:\users\bubot\documents\visual studio 2015\Projects\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\obj\Debug\FLAT_PLANET_EXAM.pdb
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\ApplicationInsights.config
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\csc.exe
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\System.Collections.Immutable.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\System.Reflection.Metadata.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\vbc.exe
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\VBCSCompiler.exe
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\roslyn\VBCSCompiler.exe.config
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\FLAT_PLANET_EXAM.dll.config
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\FLAT_PLANET_EXAM.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\FLAT_PLANET_EXAM.pdb
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.DependencyCollector.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.Web.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.WindowsServer.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.ApplicationInsights.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.Web.Infrastructure.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Helpers.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Mvc.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Razor.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Deployment.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Razor.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.DependencyCollector.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.Web.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.AI.WindowsServer.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.ApplicationInsights.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Razor.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Deployment.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Webpages.Razor.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Helpers.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\bin\System.Web.Mvc.xml
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\obj\Debug\FLAT_PLANET_EXAM.csprojResolveAssemblyReference.cache
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\obj\Debug\FLAT_PLANET_EXAM.dll
+D:\FLAT_PLANET_EXAM\FLAT_PLANET_EXAM\obj\Debug\FLAT_PLANET_EXAM.pdb
